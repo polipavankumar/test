@@ -1,0 +1,4 @@
+Name: Poli Pavan Kumar
+Skills: Git, Github, jenkins, Docker, k8s, Terraform, Ansible, sonarqube, EC2 , S3 , VPC ,VPC peering, IAM , EBS , EFS , CFT , RDS , CLI , Auto Scaling , Load balancer , Cloud watch.
+Email: polipavankumar2002@gmail.com
+
